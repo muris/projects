@@ -1,0 +1,1 @@
+Press middle mouse button to place the piece.
