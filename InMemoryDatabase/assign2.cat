@@ -1,0 +1,4 @@
+snum	int
+lname	char	6	NULL
+fname	char	5	NULL
+GPA	float
